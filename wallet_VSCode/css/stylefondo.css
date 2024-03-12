@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url('./../img/imagen_fondo\ de\ pantalla.png'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
+.contenido {
+  
+    margin: 50px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7); 
+  }
